@@ -1,0 +1,100 @@
+:root {
+    --azul-claro: #64B2CE;
+}
+
+* {
+    margin: 0;
+}
+
+#cabecalho {
+    background-image: url("../images/zeus1.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+h1 {
+    color: var(--azul-claro);
+
+}
+
+h2 {
+    color: #3F8299;
+}
+
+#descricao {
+    margin-left: 400px;
+    margin-top: 120px;
+}
+
+body {
+    background-image: linear-gradient(#0F1010, #020D3F, #46295A, black);
+}
+
+.historia {
+    color: #FFFAFA;
+    margin-bottom: 5%;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+h3 {
+    color: var(--azul-claro);
+}
+
+h4 {
+    color: var(--azul-claro);
+}
+
+h5 {
+    color: var(--azul-claro);
+}
+
+#recomendacoes {
+    color: var(--azul-claro);
+}
+
+h6 {
+    color: var(--azul-claro);
+}
+
+#infiel {
+
+    width: 100vw;
+    height: 40vh;
+    font-size: 30px;
+}
+
+#sobre-mim {
+
+    width: 100vw;
+    height: 100vh;
+    font-size: 30px;
+}
+
+h7 {
+    color: var(--azul-claro);
+}
+
+h8 {
+    color: var(--azul-claro);
+}
+
+h9 {
+    color: var(--azul-claro);
+}
+
+#o-sangue-de-zeus {
+    display: flex;
+    height: 60vh;
+}
+
+#tinder {
+    height: 50vh;
+}
